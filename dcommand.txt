@@ -12,3 +12,9 @@ command for djnago databse treminal
 
 command to check tables
 5comm: python3 manage.py sqlmigrate tablename+tableno
+
+command to import tables
+6comm:from music.models import tables
+
+
+
