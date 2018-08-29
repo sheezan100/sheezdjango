@@ -1,0 +1,8 @@
+to start django server
+1com:python3 manage.py runserver
+
+to create new app 
+2com:python3 manage.py startapp appname
+
+to migrate database with our project
+3comm:python3 manage.py migrate
