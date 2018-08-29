@@ -6,3 +6,9 @@ to create new app
 
 to migrate database with our project
 3comm:python3 manage.py migrate
+
+command for djnago databse treminal
+4comm:python3 manage.py shell
+
+command to check tables
+5comm: python3 manage.py sqlmigrate tablename+tableno
